@@ -1,6 +1,6 @@
 module github.com/fuzzingbits/philote
 
-go 1.16
+go 1.17
 
 require (
 	github.com/fuzzingbits/forge v0.0.12
